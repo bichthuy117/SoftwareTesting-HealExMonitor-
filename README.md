@@ -13,3 +13,6 @@ As a **Tester** and end-user, I was responsible for the Quality Assurance (QA) o
 * Tested the accuracy of **calorie calculation**, ensuring that values were correctly updated based on user input.
 * Identified and reported **32 defects**, contributing to a more robust and user-friendly application.
 * Achieved a **test successful coverage of 60.49%**, reflecting a thorough approach to quality assurance.
+
+  ## 4. How to Run the Project
+Recommend download file .xlsx to read Test Case fully
